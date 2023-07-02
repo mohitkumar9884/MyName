@@ -9,7 +9,7 @@
             //object creation of any class
             CalculateProgram calculateprogram = new CalculateProgram();
             calculateprogram.AdditionOfTwoNumbers();
-            
+            calculateprogram.SubtractionOfTwoNumbers();
 
 
         }
