@@ -43,7 +43,19 @@ namespace MyName
             Console.WriteLine("Multiplication: " + result);
 
         }
-            
+
+        public void DivisionOfTwoNumbers()
+        {
+            Console.WriteLine("Give Two Numbers For Division");
+            Console.WriteLine("Please enter 1st number");
+            int firstNumb = Convert.ToInt32(Console.ReadLine());//"10" 10
+            Console.WriteLine("Please enter 2nd number");
+            int secondNumber = Convert.ToInt32(Console.ReadLine());
+            int result = firstNumb / secondNumber;
+            Console.WriteLine("Division: " + result);
+
+        }
+
 
     }
 }

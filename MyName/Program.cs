@@ -11,6 +11,7 @@
             calculateprogram.AdditionOfTwoNumbers();
             calculateprogram.SubtractionOfTwoNumbers();
             calculateprogram.MultiplicationOfTwoNumbers();
+            calculateprogram.DivisionOfTwoNumbers();
 
 
         }
